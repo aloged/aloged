@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Daniel</h1>
 
-
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Changa+One&pause=1000&color=72F76C&width=435&lines=CEO+in+Gadle+Industries" alt="Typing SVG" /></a>]([https://primeperform.cc](https://readme-typing-svg.demolab.com?font=Changa+One&pause=1000&color=72F76C&width=435&lines=CEO+IN+Gadle+Industries))
 ## 📦Working in
 - 🥇 [Prime Performance](https://primeperform.cc) Advanced windows optimization solutions
 - 🏜️ [PaladinMC Network](https://discord.paladimc.net) Minecraft 1.16 to 1.21 Network
